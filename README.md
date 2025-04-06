@@ -47,7 +47,12 @@ The data analysis for this project will be carried out Power BI.
 
 - Reporting & Recommendation: Power BI facilitates the creation of customized reports for stakeholders, including bank executives, risk management teams, and regulators. These reports provide actionable insights and support data-driven decision-making.
 
-### Dashboard
+### Dashboard Loan Overview
+![image](https://github.com/user-attachments/assets/1e8536ad-f9e9-4c53-a142-63d3c5b0bd97)
+### Loan Status & Analysis
+![image](https://github.com/user-attachments/assets/c8e873dd-71d0-492f-b4a4-ac26b40b5e67)
+
+
 ### Findings 
 ### Recommendation
 
