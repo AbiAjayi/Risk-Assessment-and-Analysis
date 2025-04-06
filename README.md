@@ -29,32 +29,6 @@ This project carries a lofty mission: to revolutionize the bank's approach to lo
 
 The bank’s aim is not merely profitability, but the creation of a resilient and diversified portfolio that thrives in the face of uncertainty, reduces credit losses, ensures compliance with ever-evolving regulations and more importantly, propels the bank forward into a future where data isn't just a tool for risk mitigation, but a catalyst for growth and innovation.
 
-### Data Description
-Note: A default on a loan occurs when payments are missed for a specified period, and it has been established that the loan is no longer going to be repaid. Arrears, are payments that are late, delayed or missed but where the borrower has every intention of making the payments later.
-
-The bank has a database with 1500 rows of expense information for analysis, with the following attributes:
-
- 
-
--Loan ID: A unique identifier for each loan in the portfolio.
-- Borrower ID: A unique identifier for each borrower associated with the loan.
-- Borrower Name: The full name of the borrower.
-- Gender: The gender of the borrower.
-- Borrower Age: The age of the borrower.
-- Marital Status: The marital status of the borrower.
-- Borrower Address: The address of the borrower.
-- Borrower Email: The email address of the borrower.
-- Borrower Phone Number: The phone number of the borrower.
-- Loan Amount: The amount of money borrowed by the borrower.
-- Loan Type: The type of loan, such as personal loan, mortgage, auto loan, or commercial loan.
-- Interest Rate: The annual interest rate charged on the loan.
-- Loan Term: The duration of the loan, in years.
-- Loan Status: The status of the loan, such as "Paid Off," "Defaulted," or "In Arrears."
-- Credit Score: The credit score of the borrower, which reflects their creditworthiness.
-- Income: The income of the borrower.
-- Employment Status: The employment status of the borrower, such as "Employed," "Self-Employed," or "Unemployed."
-- Loan Origination Date: The date when the loan was initially issued.
-- Loan Paid Date: The date when the loan was paid off or settled.
 ### Tech Stack
 The data analysis for this project will be carried out Power BI. 
 
