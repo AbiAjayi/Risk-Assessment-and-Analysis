@@ -41,6 +41,10 @@ The data analysis for this project will be carried out Power BI.
 ### Project Scope
 - Data Importation & Cleansing: Import data into the power BI  environment and cleanse it by identifying and rectifying errors, missing values, and inconsistencies in the data to ensure its accuracy and reliability.
 
+### Dashboard
+### Findings 
+### Recommendation
+
 - Exploratory Data Analysis: Power BI is utilized to generate descriptive statistics, such as summary statistics, distribution plots.
 
 - Data Visualization: Power BI interactive dashboards and visualization capabilities enable the creation of charts, graphs, and heatmaps to uncover patterns and trends within the loan portfolio data.
